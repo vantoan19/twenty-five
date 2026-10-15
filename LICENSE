@@ -1,0 +1,12 @@
+Copyright (c) 2026 vantoan19. All rights reserved.
+
+This repository and everything in it (the code, the story and its words, the narration,
+the artwork and the website built from them) is made available to be looked at only.
+
+No licence is granted. You may not copy, modify, publish, re-host, distribute or make
+derivative works of any part of it, in whole or in part, without the prior written
+permission of the copyright holder.
+
+Third-party components keep their own licences: three.js (MIT), the Kokoro-82M model used
+to synthesise the narration (Apache-2.0), and the Newsreader and Hanken Grotesk typefaces
+(SIL Open Font License), which are loaded from Google Fonts.

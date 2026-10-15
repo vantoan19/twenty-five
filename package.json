@@ -1,0 +1,16 @@
+{
+  "name": "twenty-five",
+  "version": "1.0.0",
+  "private": true,
+  "description": "For You — a narrated, scroll-driven 3D story (three.js), made for a 25th birthday.",
+  "scripts": {
+    "bundle": "node tools/bundle.mjs",
+    "site": "node tools/make-site.mjs",
+    "serve": "npx --yes serve site"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "three": "^0.170.0"
+  },
+  "license": "UNLICENSED"
+}
